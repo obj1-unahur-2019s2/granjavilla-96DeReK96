@@ -26,14 +26,8 @@ class Trigo {
 		return "wheat_0.png"
 	}
 	method regate() {
-		return if (etapa == 0) {
-			"wheat_1.png" and 
-		} else if ()
 	}
 	
-	method evolucion() {
-		if (etapa)
-	}
 	
 	method teChocoElOso() {
 		if (position.x() > 0) {
